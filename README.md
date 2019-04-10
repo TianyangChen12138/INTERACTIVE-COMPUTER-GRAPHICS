@@ -1,2 +1,2 @@
 # INTERACTIVE-COMPUTER-GRAPHICS
-OpenGL projects  implemented from learning this course
+OpenGL projects that are implemented from learning this course
